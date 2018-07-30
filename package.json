@@ -1,6 +1,6 @@
 {
   "name": "big-mul",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "multiply array represented of big numbers",
   "main": "lib/big-mul.js",
   "scripts": {
